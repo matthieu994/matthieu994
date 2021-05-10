@@ -1,9 +1,9 @@
 # Hello 👋
 
-## <img src="https://raw.githubusercontent.com/matthieu994/matthieu994/main/malt.png" alt="Profil Malt" width="22"/> Profil Malt
+## <img src="https://raw.githubusercontent.com/matthieu994/matthieu994/main/malt.png" title="Profil Malt" alt="Profil Malt" width="22"/> Profil Malt
 [Cliquez ici !](https://www.malt.fr/profile/matthieu994 "https://www.malt.fr/profile/matthieu994")
 
-## <img src="https://raw.githubusercontent.com/matthieu994/matthieu994/main/linkedin.png" alt="Profil Malt" width="22"/> Profil LinkedIn
+## <img src="https://raw.githubusercontent.com/matthieu994/matthieu994/main/linkedin.png" title="Profil Malt" alt="Profil Malt" width="22"/> Profil LinkedIn
 [Cliquez ici !](https://www.linkedin.com/in/matthieu994/ "https://www.linkedin.com/in/matthieu994/")
 
 ## 📌 GitHub Stats
