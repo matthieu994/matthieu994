@@ -1,6 +1,9 @@
-# Hi there 👋
+# Hello 👋
 
-## 📌 My GitHub Stats
+## <img src="https://raw.githubusercontent.com/matthieu994/matthieu994/main/malt.png" alt="Profil Malt" width="20"/> Profil Malt
+[Cliquez ici !](https://www.malt.fr/profile/matthieu994 "https://www.malt.fr/profile/matthieu994")
+
+## 📌 GitHub Stats
 [![matthieu994's github stats](https://github-readme-stats.vercel.app/api?username=matthieu994&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieu994&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
